@@ -1,5 +1,7 @@
 ### study-of-basic-gates
-
+DEVELOPED BY: K.L.Sanjana 
+REGISTER NUMBER: 212224230241
+DATE:14/03/2025
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -65,15 +67,19 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+![Screenshot (134)](https://github.com/user-attachments/assets/e406c89a-04da-409b-b2e2-1dab94c12520)
 
- Developed by: RegisterNumber: 
+ 
  
 **Logic symbol & Truthtable**
+![Screenshot 2025-03-21 093203](https://github.com/user-attachments/assets/38736408-1e32-460f-9287-4f2758ead5df)
 
 **RTL realization Output:** 
+![Screenshot (135)](https://github.com/user-attachments/assets/93b4f327-e462-4be9-8ff8-b6f68dc4ae97)
 
 **RTL**
+![Screenshot (133)](https://github.com/user-attachments/assets/9928d1d9-9dd7-4692-988d-3c692c51a817)
 
 **Result:**
-
+ The Truth table of all logic gates using Quartrus II is verified
 
