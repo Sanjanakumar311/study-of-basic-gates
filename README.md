@@ -2,6 +2,7 @@
 DEVELOPED BY: K.L.Sanjana 
 REGISTER NUMBER: 212224230241
 DATE:14/03/2025
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
