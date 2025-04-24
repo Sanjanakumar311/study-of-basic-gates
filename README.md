@@ -1,5 +1,5 @@
 ### study-of-basic-gates
-DEVELOPED BY: K.L.Sanjana 
+DEVELOPED BY: K.L. Sanjana 
 REGISTER NUMBER: 212224230241
 DATE:14/03/2025
 
